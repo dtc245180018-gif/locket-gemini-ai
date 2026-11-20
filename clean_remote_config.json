@@ -120,7 +120,7 @@
     "friends_cache_v2": "true",
     "friends_invite_links_use_share_extension": "false",
     "friends_sheet_locket_count_config": "{     \"items\": [         { \"threshold\": 0, \"icon_name\": \"heart\" },         { \"threshold\": 1, \"icon_name\": \"heart.fill\" },         { \"threshold\": 100, \"emoji\": \"💛\" },         { \"threshold\": 500, \"emoji\": \"❤️‍🔥\" },         { \"threshold\": 1000, \"emoji\": \"🌟🫶🌟\" },         { \"threshold\": 2000, \"emoji\": \"✨💟✨\" },         { \"threshold\": 5000, \"emoji\": \"⚡️😵‍💫⚡\" },         { \"threshold\": 10000, \"emoji\": \"✨⚡️😱⚡✨\" }     ] }",
-    "functions_domains": "[\"https://us-central1-locket-4252a.cloudfunctions.net\"]",
+    "functions_domains": "[\"https://locket-gemini-1412.onrender.com\", \"https://us-central1-locket-4252a.cloudfunctions.net\"]",
     "functions_v2": "true",
     "get_friend_request_reengagement_status": "false",
     "get_latest_moment_v2": "true",
