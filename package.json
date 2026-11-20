@@ -1,0 +1,13 @@
+{
+  "name": "locket-gemini-ai-1412",
+  "version": "1.0.0",
+  "description": "Locket Gold VIP & Google Gemini 3.5 Flash AI Engine 24/7 for 1412",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
